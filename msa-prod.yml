@@ -1,2 +1,2 @@
-metis:
-  test: metis-prod config test
+lch:
+  test: lch-prod config test

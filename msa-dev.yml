@@ -1,2 +1,2 @@
-metis:
-  test: metis-dev config test change refresh
+lch:
+  test: lch-dev config test change refresh
