@@ -1,0 +1,3 @@
+metis:
+  gateway:
+    test: metis-gateway dev config test
